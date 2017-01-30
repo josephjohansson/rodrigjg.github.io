@@ -1,5 +1,5 @@
 body {
-    background-image: "images/bg.jpg";
+    background-image: "images/bg.jpg"
 }
 
 
@@ -142,6 +142,6 @@ td.text-right {
 }
 
 img.resize {
-    width:540px; /* you can use % */
+    width:240px; /* you can use % */
     height: auto;
 }
