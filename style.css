@@ -21,5 +21,5 @@ li a:hover {
 }
 
 body {
-    background-image: url("/images/sfbackground.jpg")
+    background-image: "/images/sfbackground.jpg"
 }
