@@ -145,7 +145,7 @@ td.text-right {
   text-align: right;
 }
 
-img.resize {
-    width:240px; /* you can use % */
+img{
+    width: 50%;
     height: auto;
 }
