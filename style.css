@@ -140,3 +140,8 @@ td.text-center {
 td.text-right {
   text-align: right;
 }
+
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
