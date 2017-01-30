@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/sfbackground.jpg");
+    background-image: "images/sfbackground.jpg";
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
