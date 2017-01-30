@@ -148,4 +148,5 @@ td.text-right {
 img{
     width: 50%;
     height: auto;
+    vertical-align:middle;
 }
