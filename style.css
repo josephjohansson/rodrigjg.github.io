@@ -1,3 +1,7 @@
+body {
+    background-image: "/images/sfbackground.jpg" 
+}
+
 
 ul {
     font-family: "Helvetica";
@@ -21,6 +25,3 @@ li a:hover {
     background-color: #111;
 }
 
-body {
-    background-image: "/images/sfbackground.jpg" 
-}
