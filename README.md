@@ -1,2 +1,4 @@
-# rodrigjg.github.io
-Assignment 1. 5 silly HTML pages
+# SENG 513 W17 Assignment 2
+Skeleton code.
+
+Put all your code into code.js.
